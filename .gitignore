@@ -1,0 +1,10 @@
+# Build output
+/tcf-prep
+/bin/
+
+# Test & coverage artifacts
+*.test
+coverage.out
+
+# Editor / OS noise
+.DS_Store
